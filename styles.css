@@ -26,7 +26,6 @@ body {
   width: 100%;
   display: flex;
   padding: 0 20px;
-  background-color: rgba(226, 226, 226, 0.1);
 }
 .slide {
   height: 75vh;
